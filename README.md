@@ -1,2 +1,2 @@
-This is an issues repository for the Stardust Origins mod.
-Go to the [Issues](https://github.com/LaviStardust/origins-stardust/issues) tab, or go to the [mod's main page](https://modrinth.com/mod/stardust-origins)!
+This is an [issues](https://github.com/LaviStardust/origins-stardust/issues) repository for the [Stardust Origins](https://modrinth.com/mod/stardust-origins) mod.
+The changelog can be viewed on Modrinth [here](https://modrinth.com/mod/stardust-origins/changelog).
